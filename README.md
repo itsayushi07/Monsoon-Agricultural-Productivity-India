@@ -141,7 +141,6 @@ Understanding the interaction between climate variability and agricultural produ
 ## Authors
 
 **Ayushi** 
-
 **Arnad Kumar Das**   
 **Elsa Bobben**  
 **Ashish Kumar**
