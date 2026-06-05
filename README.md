@@ -1,4 +1,4 @@
-# Monsoon Variability and Agricultural Productivity in India (1980–2020) 
+# Monsoon Variability and Agricultural Productivity in India (1980–2020) 🌧️🌾
 
 > Quantitative Analysis of Long-Term Rainfall Variability and Its Influence on Agricultural Productivity
 
@@ -139,10 +139,8 @@ Understanding the interaction between climate variability and agricultural produ
 ---
 
 ## Authors
-**Ayushi**
-**Arnad Kumar Das**   
-**Elsa Bobben**  
-**Ashish Kumar**
+
+Ayushi¹, Arnad Kumar Das¹, Elsa Bobben¹, Ashish Kumar¹
 
 ---
 
