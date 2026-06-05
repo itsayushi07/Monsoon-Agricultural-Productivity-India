@@ -97,25 +97,19 @@ This project investigates the relationship between monsoon rainfall variability 
 ```text
 IISPPR-Environment-Research-Internship/
 │
-├── data/
-│   ├── rainfall_dataset.csv
-│   ├── rice_yield_data.csv
-│   └── wheat_yield_data.csv
-│
-├── analysis/
-│   ├── rainfall_variability_analysis.ipynb
-│   ├── crop_productivity_analysis.ipynb
-│   └── correlation_analysis.ipynb
-│
-├── figures/
-│   ├── rainfall_trends.png
-│   ├── yield_trends.png
-│   └── correlation_plots.png
-│
 ├── paper/
-│   └── final_report.pdf
+│   ├── abstract.md
+│   ├── introduction.md
+│   ├── literature_review.md
+│   ├── methodology.md
+│   ├── results.md
+│   ├── discussion_conclusion.md
+│   └── references.md
 │
-└── README.md
+├── Final Research Paper_Environment_IISPPR_2026.pdf
+│
+├── README.md
+
 ```
 
 ---
