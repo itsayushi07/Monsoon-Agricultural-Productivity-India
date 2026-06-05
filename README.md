@@ -1,4 +1,4 @@
-# Monsoon Variability and Agricultural Productivity in India (1980–2020) 🌧️🌾
+# Monsoon Variability and Agricultural Productivity in India (1980–2020) 
 
 > Quantitative Analysis of Long-Term Rainfall Variability and Its Influence on Agricultural Productivity
 
